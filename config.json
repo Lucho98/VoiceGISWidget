@@ -1,0 +1,11 @@
+{
+  "voiceLanguage": "es-CO",
+  "voiceFeedback": true,
+  "feedbackVolume": 0.8,
+  "activationWord": "",
+  "showCommandList": false,
+  "animationStyle": "siri",
+  "widgetPosition": "bottom-right",
+  "primaryColor": "#0079c1",
+  "zoomStep": 2
+}

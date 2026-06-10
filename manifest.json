@@ -1,0 +1,24 @@
+{
+  "name": "voice-gis-widget",
+  "label": "Voice GIS Controller",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Luis Fernando Posada - Esri Colombia",
+  "description": "Control de mapas ArcGIS por voz tipo Siri. Usa Web Speech API nativa sin IA externa.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": true,
+    "hasStylePage": false,
+    "hasConfig": true
+  },
+  "dependency": "jimu-arcgis",
+  "settingDependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 100,
+    "height": 130
+  },
+  "translatedLocales": ["en"]
+}

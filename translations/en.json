@@ -1,0 +1,21 @@
+{
+  "_widgetLabel": "Voice GIS Controller",
+  "voiceLanguage": "Voice language",
+  "voiceFeedback": "Voice feedback",
+  "feedbackVolume": "Volume",
+  "activationWord": "Activation word",
+  "showCommandList": "Show command list",
+  "animationStyle": "Animation style",
+  "widgetPosition": "Widget position",
+  "primaryColor": "Primary color",
+  "zoomStep": "Zoom step",
+  "selectMap": "Select map",
+  "noMapSelected": "Select a map widget in settings",
+  "listening": "Listening...",
+  "processing": "Processing...",
+  "speaking": "Responding...",
+  "tapToSpeak": "Tap to speak",
+  "error": "Error — tap to retry",
+  "notSupported": "Browser not supported",
+  "notSupportedDesc": "This widget requires Chrome, Edge or Safari"
+}

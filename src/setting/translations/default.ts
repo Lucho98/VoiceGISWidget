@@ -1,0 +1,16 @@
+export default {
+  settingLabel: 'Configuración de Voice GIS',
+  mapSection: 'Mapa de destino',
+  mapWidget: 'Widget de mapa',
+  voiceSection: 'Configuración de voz',
+  voiceLanguage: 'Idioma de reconocimiento',
+  voiceFeedback: 'Respuesta por voz (TTS)',
+  feedbackVolume: 'Volumen de respuesta',
+  behaviorSection: 'Comportamiento',
+  zoomStep: 'Paso de zoom por comando',
+  showCommandList: 'Mostrar lista de comandos al inicio',
+  appearanceSection: 'Apariencia',
+  widgetPosition: 'Posición del widget',
+  animationStyle: 'Estilo de animación',
+  primaryColor: 'Color principal',
+}
