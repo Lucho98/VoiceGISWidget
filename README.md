@@ -188,7 +188,6 @@ npm start
 - [ ] Palabra de activación tipo "Hey Mapa" (siempre escuchando)
 - [ ] Comandos de selección espacial por voz
 - [ ] Soporte Multi-idioma dinámico
-- [ ] Integración con ArcGIS Velocity / GeoEvent
 - [ ] Exportar historial de comandos a CSV
 - [ ] Comandos de análisis (buffer, intersect) por voz
 
